@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FormBanqu/static/css/main.2745f7e2.css",
+    "main.js": "/FormBanqu/static/js/main.03712d80.js",
+    "static/js/453.117b0875.chunk.js": "/FormBanqu/static/js/453.117b0875.chunk.js",
+    "static/media/IBMPlexMono-Bold.ttf": "/FormBanqu/static/media/IBMPlexMono-Bold.8c5394425e791cc7cd11.ttf",
+    "static/media/Cairo-Bold.ttf": "/FormBanqu/static/media/Cairo-Bold.ce0de3cc5a5937b53d2a.ttf",
+    "index.html": "/FormBanqu/index.html",
+    "main.2745f7e2.css.map": "/FormBanqu/static/css/main.2745f7e2.css.map",
+    "main.03712d80.js.map": "/FormBanqu/static/js/main.03712d80.js.map",
+    "453.117b0875.chunk.js.map": "/FormBanqu/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2745f7e2.css",
+    "static/js/main.03712d80.js"
+  ]
+}
